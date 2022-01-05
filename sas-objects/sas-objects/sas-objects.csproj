@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>Sasaki.Objects</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>sas-objects</Title>
+        <Authors>Sasaki</Authors>
+        <Company>Sasaki</Company>
+    </PropertyGroup>
+
+</Project>
