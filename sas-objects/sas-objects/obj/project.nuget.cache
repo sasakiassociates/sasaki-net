@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UGR0ulw1MEq97NPJ7WazE6AYcN4x8u8psnSuObJFrShDlvzJEW138GDPR3sXyjmeR2ySZy8tXclQwIgkfuooew==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Sasaki\\sas-objects\\sas-objects\\sas-objects\\sas-objects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morga\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\morga\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

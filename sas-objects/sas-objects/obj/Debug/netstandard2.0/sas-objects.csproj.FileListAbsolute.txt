@@ -1,0 +1,10 @@
+D:\Projects\Sasaki\sas-objects\sas-objects\sas-objects\bin\Debug\netstandard2.0\sas-objects.deps.json
+D:\Projects\Sasaki\sas-objects\sas-objects\sas-objects\bin\Debug\netstandard2.0\sas-objects.dll
+D:\Projects\Sasaki\sas-objects\sas-objects\sas-objects\bin\Debug\netstandard2.0\sas-objects.pdb
+D:\Projects\Sasaki\sas-objects\sas-objects\sas-objects\obj\Debug\netstandard2.0\sas-objects.csproj.AssemblyReference.cache
+D:\Projects\Sasaki\sas-objects\sas-objects\sas-objects\obj\Debug\netstandard2.0\sas-objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Sasaki\sas-objects\sas-objects\sas-objects\obj\Debug\netstandard2.0\sas-objects.AssemblyInfoInputs.cache
+D:\Projects\Sasaki\sas-objects\sas-objects\sas-objects\obj\Debug\netstandard2.0\sas-objects.AssemblyInfo.cs
+D:\Projects\Sasaki\sas-objects\sas-objects\sas-objects\obj\Debug\netstandard2.0\sas-objects.csproj.CoreCompileInputs.cache
+D:\Projects\Sasaki\sas-objects\sas-objects\sas-objects\obj\Debug\netstandard2.0\sas-objects.dll
+D:\Projects\Sasaki\sas-objects\sas-objects\sas-objects\obj\Debug\netstandard2.0\sas-objects.pdb

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>sas-objects</id>
+    <version>1.0.0</version>
+    <title>sas-objects</title>
+    <authors>Sasaki</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\Sasaki\sas-objects\sas-objects\sas-objects\bin\Debug\netstandard2.0\sas-objects.dll" target="lib\netstandard2.0\sas-objects.dll" />
+  </files>
+</package>
