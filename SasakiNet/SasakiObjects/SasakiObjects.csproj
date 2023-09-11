@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>Sasaki.Objects</AssemblyName>
+        <RootNamespace>Sasaki</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>SasakiObjects</PackageId>
+        <Authors>Sasaki</Authors>
+        <Company>Sasaki</Company>
+        <Product>Sasaki-Net</Product>
+    </PropertyGroup>
+
+</Project>
