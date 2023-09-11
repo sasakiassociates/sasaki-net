@@ -6,7 +6,7 @@
     /// <summary>
     ///   Sasaki id in the format of <see cref="System.Guid" />
     /// </summary>
-    string guid {get;}
+    string? appId {get;}
   }
 
 }

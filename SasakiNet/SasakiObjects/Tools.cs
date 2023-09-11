@@ -66,9 +66,16 @@ public static class SasakiTools
   /// </summary>
   /// <param name="value"></param>
   /// <returns>returns true if value contains something</returns>
-  public static bool Valid(this string value)
+  public static bool Valid(this string? value)
   {
     return!string.IsNullOrEmpty(value);
+  }
+
+  public static string InitGuid => Guid.NewGuid().ToString();
+
+  public static string CheckIfValidId(string? valueId)
+  {
+    return valueId != null && Guid.TryParse(valueId, out _) ? valueId : InitGuid;
   }
 
 }
