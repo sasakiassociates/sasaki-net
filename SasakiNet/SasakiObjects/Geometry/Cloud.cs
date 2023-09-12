@@ -3,22 +3,31 @@ using System;
 
 namespace Sasaki.Geometry;
 
-public class Cloud : ICloud
+/// <summary>
+/// The basic cloud object  
+/// </summary>
+public class Cloud : SasakiObject, ICloud
 {
-
-  /// <summary>
-  /// 
-  /// </summary>
-  /// <param name="appId"></param>
-  public Cloud(string? appId)
-  {
-    this.appId = SasakiTools.CheckIfValidId(appId);
-
-  }
-
-  /// <inheritdoc />
-  public string appId {get;set;}
 
   /// <inheritdoc />
   public CloudPoint[] points {get;set;} = Array.Empty<CloudPoint>();
+
+
+}
+
+[Serializable]
+public struct CloudPoint
+{
+
+  public double x, y, z, xn, yn, zn;
+
+  public CloudPoint(double x, double y, double z, double xn = 0, double yn = 0, double zn = 0)
+  {
+    this.x = x;
+    this.y = y;
+    this.z = z;
+    this.xn = xn;
+    this.yn = yn;
+    this.zn = zn;
+  }
 }
